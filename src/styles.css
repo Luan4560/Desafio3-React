@@ -33,7 +33,7 @@ button {
   font-size: 14px;
 }
 
-div li button {
-  margin: 0 15px;
+div ul button {
+  margin: 10px 10px;
   background: #ca4949;
 }
